@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855679342645",
+    "project_id": "b2b-marketplace-app",
+    "storage_bucket": "b2b-marketplace-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855679342645:android:9d6aaff0f656f1f77bf97c",
+        "android_client_info": {
+          "package_name": "com.example.b2b_marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855679342645-50977g62rj6pqgjmbu2eipijigci1v6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShzNsn3WsVQFtVV_y238jUouPx4zJU6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855679342645-50977g62rj6pqgjmbu2eipijigci1v6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
